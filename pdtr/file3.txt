@@ -3,5 +3,3 @@ hello
 how
 are
 you
-hai
-hai
